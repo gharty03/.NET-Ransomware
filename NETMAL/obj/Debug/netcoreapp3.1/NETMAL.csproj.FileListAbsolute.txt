@@ -1,0 +1,14 @@
+D:\Projects\NETMAL\NETMAL\bin\Debug\netcoreapp3.1\NETMAL.exe
+D:\Projects\NETMAL\NETMAL\bin\Debug\netcoreapp3.1\NETMAL.deps.json
+D:\Projects\NETMAL\NETMAL\bin\Debug\netcoreapp3.1\NETMAL.runtimeconfig.json
+D:\Projects\NETMAL\NETMAL\bin\Debug\netcoreapp3.1\NETMAL.runtimeconfig.dev.json
+D:\Projects\NETMAL\NETMAL\bin\Debug\netcoreapp3.1\NETMAL.dll
+D:\Projects\NETMAL\NETMAL\bin\Debug\netcoreapp3.1\NETMAL.pdb
+D:\Projects\NETMAL\NETMAL\obj\Debug\netcoreapp3.1\NETMAL.csproj.AssemblyReference.cache
+D:\Projects\NETMAL\NETMAL\obj\Debug\netcoreapp3.1\NETMAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NETMAL\NETMAL\obj\Debug\netcoreapp3.1\NETMAL.AssemblyInfoInputs.cache
+D:\Projects\NETMAL\NETMAL\obj\Debug\netcoreapp3.1\NETMAL.AssemblyInfo.cs
+D:\Projects\NETMAL\NETMAL\obj\Debug\netcoreapp3.1\NETMAL.csproj.CoreCompileInputs.cache
+D:\Projects\NETMAL\NETMAL\obj\Debug\netcoreapp3.1\NETMAL.dll
+D:\Projects\NETMAL\NETMAL\obj\Debug\netcoreapp3.1\NETMAL.pdb
+D:\Projects\NETMAL\NETMAL\obj\Debug\netcoreapp3.1\NETMAL.genruntimeconfig.cache
