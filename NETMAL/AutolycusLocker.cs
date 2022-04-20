@@ -6,7 +6,7 @@ using NETMAL.Filesystem;
 
 namespace NETMAL
 {
-    class Program
+    class AutolycusLocker
     {
 
         static void Main(string[] args)
