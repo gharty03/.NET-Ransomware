@@ -25,7 +25,7 @@ namespace NETMAL.Filesystem
             return new DirectoryInfo(getName());
         }
 
-         public void WalkDirectoryTree(string name)
+        public void WalkDirectoryTree(string name)
         {
             System.IO.FileInfo[] files = null;
             System.IO.DirectoryInfo[] subDirs = null;
@@ -34,6 +34,10 @@ namespace NETMAL.Filesystem
             try
             {
                 files = root.GetFiles("*.*");
+                if (files != null)
+                {
+                    Directory.SetCurrentDirectory(root.ToString()); //this may not give the full path to the directory to set it at
+                }
             }
             // This is thrown if even one of the files requires permissions greater
             // than the application provides.
@@ -63,7 +67,7 @@ namespace NETMAL.Filesystem
 
                 // Now find all the subdirectories under this directory.
                 subDirs = root.GetDirectories();
-                Console.WriteLine(subDirs);
+                // Console.WriteLine(subDirs);
 
                 foreach (DirectoryInfo dirInfo in subDirs)
                 {

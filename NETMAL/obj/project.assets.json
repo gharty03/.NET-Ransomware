@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\NETMAL\\NETMAL\\NETMAL.csproj",
+      "projectUniqueName": "D:\\Projects\\NETMAL\\.NET-Ransomware\\NETMAL\\NETMAL.csproj",
       "projectName": "NETMAL",
-      "projectPath": "D:\\Projects\\NETMAL\\NETMAL\\NETMAL.csproj",
+      "projectPath": "D:\\Projects\\NETMAL\\.NET-Ransomware\\NETMAL\\NETMAL.csproj",
       "packagesPath": "C:\\Users\\ghart\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\NETMAL\\NETMAL\\obj\\",
+      "outputPath": "D:\\Projects\\NETMAL\\.NET-Ransomware\\NETMAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ghart\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
